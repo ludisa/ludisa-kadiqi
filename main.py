@@ -1,0 +1,5 @@
+basic.show_string("Ludisa")
+basic.show_icon(IconNames.DIAMOND)
+basic.show_icon(IconNames.SMALL_DIAMOND)
+basic.show_icon(IconNames.SQUARE)
+basic.show_icon(IconNames.SMALL_SQUARE)

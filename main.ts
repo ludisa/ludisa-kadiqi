@@ -1,0 +1,5 @@
+basic.showString("Ludisa")
+basic.showIcon(IconNames.Diamond)
+basic.showIcon(IconNames.SmallDiamond)
+basic.showIcon(IconNames.Square)
+basic.showIcon(IconNames.SmallSquare)
